@@ -55,7 +55,8 @@ A página inicial contém um carrossel com três cartas, cada uma representando 
 O carrossel está implementado com uma rotação 3D usando a propriedade rotateY, e o movimento do mouse é monitorado para ajustar dinamicamente o ângulo de rotação. Isso cria um efeito de navegação fluido, como se estivéssemos folheando uma revista digital.
 
 ### Alterações no projeto inicial 🔨
-Pequenas alterações nas rotas do menu
+- Pequenas alterações nas rotas do menu de navegação, redirecionando o usuário para a página correta.
+- Mudança da rota inicial no index para que o Github Pages possa iniciar corretamente.
 
 ### Melhorias Futuras 💡
 Adicionar mais personagens: Expandir o carrossel com outros personagens do universo Spider-Man.
