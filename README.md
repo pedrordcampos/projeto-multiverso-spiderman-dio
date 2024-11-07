@@ -13,7 +13,7 @@ Este projeto explora o conceito de multiverso, com foco nos três personagens pr
 A aplicação consiste em uma interface de carrossel, onde você pode interagir com as cartas dos diferentes Spider-Men, que giram dinamicamente conforme o movimento do mouse, como se fosse uma página de uma revista!
 
 ## Como visualizar o projeto?
-Clique [aqui]()
+Clique [aqui](https://pedrordcampos.github.io/projeto-multiverso-spiderman-dio/)
 
 ## Funcionalidades 🔧
 
