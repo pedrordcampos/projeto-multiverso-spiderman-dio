@@ -34,14 +34,14 @@ A aplicação consiste em uma interface de carrossel, onde você pode interagir 
 git clone https://github.com/pedrordcampos/projeto-multiverso-spiderman-dio.git
 ````
 
-Passo 2: Abra o projeto
+### Passo 2: Abra o projeto
 Navegue até a pasta do projeto:
 
 ```bash
 cd spiderman-multiversos
 ````
 
-Passo 3: Interaja com o carrossel
+### Passo 3: Interaja com o carrossel
 Movimente o mouse para girar o carrossel de cartas.
 Passe o mouse sobre uma carta para ver o efeito de hover.
 Clique nas cartas para navegar até a página dedicada de cada "Spider-Man".
@@ -50,11 +50,12 @@ A página inicial contém um carrossel com três cartas, cada uma representando 
 
 O carrossel está implementado com uma rotação 3D usando a propriedade rotateY, e o movimento do mouse é monitorado para ajustar dinamicamente o ângulo de rotação. Isso cria um efeito de navegação fluido, como se estivéssemos folheando uma revista digital.
 
-Melhorias Futuras 💡
+### Melhorias Futuras 💡
 Adicionar mais personagens: Expandir o carrossel com outros personagens do universo Spider-Man.
 Animações aprimoradas: Melhorar as transições e animações ao mover o mouse.
 Efeitos responsivos: Adaptar o design para funcionar bem em dispositivos móveis.
-Conclusão 🎉
+
+### Conclusão 🎉
 Esse projeto foi uma excelente oportunidade para aplicar os conhecimentos adquiridos durante o bootcamp da DIO e aprender mais sobre interatividade no front-end, criando uma experiência visual interessante e dinâmica com o tema do Homem-Aranha.
 
 Agora, é só usar o carrossel e se divertir navegando pelos multiversos do Spider-Man! 😄🕷️
