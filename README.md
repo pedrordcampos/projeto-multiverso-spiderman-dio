@@ -12,6 +12,9 @@ Este projeto explora o conceito de multiverso, com foco nos três personagens pr
 
 A aplicação consiste em uma interface de carrossel, onde você pode interagir com as cartas dos diferentes Spider-Men, que giram dinamicamente conforme o movimento do mouse, como se fosse uma página de uma revista!
 
+## Como visualizar o projeto?
+Clique [aqui]()
+
 ## Funcionalidades 🔧
 
 - **Carrossel interativo**: As cartas dos personagens giram com o movimento do mouse, criando um efeito visual imersivo.
@@ -49,6 +52,9 @@ Como Funciona 🕸️
 A página inicial contém um carrossel com três cartas, cada uma representando um "Spider-Man" de diferentes filmes. O carrossel gira conforme o movimento do mouse, e as cartas reagem ao hover.
 
 O carrossel está implementado com uma rotação 3D usando a propriedade rotateY, e o movimento do mouse é monitorado para ajustar dinamicamente o ângulo de rotação. Isso cria um efeito de navegação fluido, como se estivéssemos folheando uma revista digital.
+
+### Alterações no projeto inicial 🔨
+Pequenas alterações nas rotas do menu
 
 ### Melhorias Futuras 💡
 Adicionar mais personagens: Expandir o carrossel com outros personagens do universo Spider-Man.
