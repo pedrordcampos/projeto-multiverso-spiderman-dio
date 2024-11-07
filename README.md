@@ -60,4 +60,4 @@ Esse projeto foi uma excelente oportunidade para aplicar os conhecimentos adquir
 
 Agora, é só usar o carrossel e se divertir navegando pelos multiversos do Spider-Man! 😄🕷️
 
-Desenvolvido com 💖 durante o Bootcamp Ri Happy - Front-end do Zero da DIO.
+#### Desenvolvido com 💖 durante o Bootcamp Ri Happy - Front-end do Zero da DIO.
