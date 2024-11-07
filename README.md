@@ -48,7 +48,8 @@ cd spiderman-multiversos
 Movimente o mouse para girar o carrossel de cartas.
 Passe o mouse sobre uma carta para ver o efeito de hover.
 Clique nas cartas para navegar até a página dedicada de cada "Spider-Man".
-Como Funciona 🕸️
+
+### Como Funciona? 🕸️
 A página inicial contém um carrossel com três cartas, cada uma representando um "Spider-Man" de diferentes filmes. O carrossel gira conforme o movimento do mouse, e as cartas reagem ao hover.
 
 O carrossel está implementado com uma rotação 3D usando a propriedade rotateY, e o movimento do mouse é monitorado para ajustar dinamicamente o ângulo de rotação. Isso cria um efeito de navegação fluido, como se estivéssemos folheando uma revista digital.
